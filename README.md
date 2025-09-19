@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sathvikraipelly
-- 👀 I’m interested in SOFTWARE developing
-- 🌱 I’m currently learning 
+- 👀 I’m interested in Software Developing
+- 🌱 I’m a Graduate
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... sathvikraipelly4@gmail.com
 
